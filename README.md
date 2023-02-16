@@ -1,0 +1,2 @@
+# LPIC-
+linux course 
